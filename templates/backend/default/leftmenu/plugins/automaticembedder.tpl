@@ -1,0 +1,1 @@
+							<li class="{if $module == 'aembedder'}active{/if}"><a href="videos.php?m=aembedder&all=1">Automatic Embedder</a></li>
